@@ -1,4 +1,4 @@
-# Full-stack notebook
+
 
 ![GoodNote](/images/goodnote.png)
 
