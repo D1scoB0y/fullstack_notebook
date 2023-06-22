@@ -62,6 +62,8 @@ Fullstack Notebook is built using modern web technologies such as HTML, CSS, Typ
     yarn dev
 ```
 
+***
+
 ### 3. Usage
 
 First you will see the landing page, you will be prompted to log in to your account or create a new one, after authorization you will be able to use all the functionality of this application.
