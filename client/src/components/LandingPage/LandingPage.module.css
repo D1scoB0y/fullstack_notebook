@@ -1,0 +1,42 @@
+.companyName{
+    width: max-content;
+
+    font-size: 48px;
+    font-weight: 600;
+    color: #5C469C;
+
+    padding-top: 100px;
+    margin: auto;
+
+    cursor: pointer;
+}
+
+.slogan{
+    width: max-content;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    padding: 0 24px;
+
+    margin: auto;
+    margin-top: 40px;
+
+    border: 1px solid #5C469C;
+
+    border-left: 8px solid #5C469C;
+
+    font-size: 20px;
+    font-weight: 400;
+    color: #5C469C;
+}
+
+.button{
+    width: 260px;
+    height: 50px;
+    
+    margin: auto;
+    margin-top: 40px;
+
+    font-size: 20px;
+}

@@ -1,0 +1,39 @@
+.header{
+    width: 100%;
+    padding-top: 40px;
+}
+
+.innerHeader{
+    width: 100%;
+
+    padding: 0 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerCompanyName{
+    font-size: 36px;
+    font-weight: 600;
+    color: #5C469C;
+
+    cursor: pointer;
+}
+
+.userBox{
+    display: flex;
+    align-items: center;
+}
+
+.headerUserEmail{
+    font-size: 20px;
+    font-weight: 500;
+    color: #5C469C;
+}
+
+.headerButton{
+    width: 160px;
+
+    margin-left: 32px;
+}
