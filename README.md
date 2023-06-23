@@ -44,7 +44,14 @@ Fullstack Notebook is built using modern web technologies such as HTML, CSS, Typ
     SECRET_KEY = your_secret_key
     DB_URL = your_database_url
 ```
-4. Start __`FastAPI`__ app
+4. Make migrations with __`alembic`__
+```
+    alembic revision --autogenerate
+```
+```
+    alembic upgrade head
+```
+5. Start __`FastAPI`__ app
 ```
     uvicorn src.main:app --reload
 ```
